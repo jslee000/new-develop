@@ -6,7 +6,7 @@ void main(void)
     putchar(65);//숫자 : A 
     putchar(0101);//8진수 : K 
     putchar(0x41);//16진수 : K 
-    putchar(0x42);//16진수 : L 
+    putchar(0x42);//16진수 : L MMM
     putchar('\n');//한줄내림 
     
     printf("%c %d %o %x \n"
